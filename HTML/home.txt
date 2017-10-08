@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Happy Monkey
+</title>
+</head>
+<body align="center">
+<tr>
+<tl><h1><b>Happy Monkey</b></h1></tl>
+<tl><a href="home.html">Home</a> | <a href="profil.html">Profil</a> | <a href="galeri.html">Galeri</a> | <a href="member.html">Member</a> | <a href="daftar.html">Daftar</a></tl>
+<tl><img src="C:\Users\Marcell\Documents\HTML\Two-happy-monkeys_o_27812.jpg"></tl>
+</tr>
+</body>
+</html>
